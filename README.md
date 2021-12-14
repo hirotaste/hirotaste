@@ -8,7 +8,7 @@
 ##
 
 <ul>
-  <li>💻 Dev Front-end since 2019</li>
+  <li>💻 Dev javascript since 2019</li>
 </ul>
 
 <div style="display: inline_block"><br>
