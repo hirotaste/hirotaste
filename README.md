@@ -1,4 +1,4 @@
-## Hi 👋 I'm Stefano... Welcome to my Github! 😄
+## Olá 👋 Stefano aqui... Bem vindo ao meu Github! 😄
 
 <div>  
   <a href="mailto: stefanohirota@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
@@ -8,7 +8,7 @@
 ##
 
 <ul>
-  <li>💻 Dev javascript since 2019</li>
+  <li>💻 Desenvolvedor Javascript desde 2018</li>
 </ul>
 
 <div style="display: inline_block"><br>
