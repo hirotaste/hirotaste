@@ -1,7 +1,6 @@
 ## Olá 👋 Stefano aqui... Bem vindo ao meu Github! 😄
 
 <div>  
-  <a href="mailto: stefanohirota@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/stefano-hideki/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
 </div>
 
